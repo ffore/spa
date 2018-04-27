@@ -25,16 +25,16 @@ I made my project plant themed where the user can upload a plant into their gard
 <u>Database view</u>
 <img src="screenshots/db before.jpg">
 
-<u>Server file upload directory</u>
+<u>Server file upload directory located in './datas'</u>
 <img src="screenshots/ls before.jpg">
 
 <u>Upload 'super duper pretty'</u>
 <img src="screenshots/after upload.jpg">
 
-<u>Databse view after upload</u>
-<img src="screenshots/db after.jpg">
+<u>Database view after upload</u>
+<img src="screenshots/db after upload.jpg">
 
-<u>Server file upload directory after upload</u>
+<u>Server file upload directory after upload located in './datas'</u>
 <img src="screenshots/ls after.jpg">
 
 <u>Select new radio button</u>
